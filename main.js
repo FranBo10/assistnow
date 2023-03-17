@@ -1,16 +1,16 @@
-const btnTitle = document.querySelector('#btn-title');
-const title = document.querySelector("#title");
-const home = document.querySelector('#btn-home');
-const row = document.querySelector("#row");
-const presentation = document.querySelector("#presentation");
-const image = document.querySelector("#image");
+// const btnTitle = document.querySelector('#btn-title');
+// const title = document.querySelector("#title");
+// const home = document.querySelector('#btn-home');
+// const row = document.querySelector("#row");
+// const presentation = document.querySelector("#presentation");
+// const image = document.querySelector("#image");
 
-btnTitle.addEventListener('click', () => {
-    title.style.display = 'none';
-    presentation.style.display = 'block';
-    row.style.display = 'none';
-    image.style.height = "100vh";
-})
+// btnTitle.addEventListener('click', () => {
+//     title.style.display = 'none';
+//     presentation.style.display = 'block';
+//     row.style.display = 'none';
+//     image.style.height = "100vh";
+// })
 
 const menuBtn = document.querySelector(".menu-btn");
 const closeBtn = document.querySelector(".close-btn");
