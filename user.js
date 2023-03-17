@@ -57,6 +57,18 @@
     disponibilite: ""
 
 },
+
+{
+  id: "6",
+  image: "../img/avatars/avatar_23.jpg",
+  name: "Eva Langeria",
+  age: 21,
+  femme: true ,
+  rating: 4,
+  hobbies: ["karaoke", "danse", "cuisine"],
+  disponibilite: ""
+
+},
 ]
 
 const tbody = document.querySelector('tbody');
